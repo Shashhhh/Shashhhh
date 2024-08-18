@@ -1,8 +1,10 @@
 # Jason Lin
 
 ## About Me:
-- I'm studying Computer Science at the University of Michigan
-- I'm a SWE intern at Siemens
+- 📗 I'm studying Computer Science at the University of Michigan
+- 💼 I'm a SWE intern at Siemens
+- 🌟 Seeking to expand my knowledge in AI/ML and contribute to impactful projects.
+
   
 ## Projects Overview:
 ### Marketing Maturity Assessment - An interactive form for assessing marketing maturity within Siemens
