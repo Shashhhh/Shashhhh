@@ -19,7 +19,10 @@
 </p>
 
 ## Reach Me
-<a href="www.linkedin.com/in/jason-lin129" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=33/></a><p>
+<a href="https://www.linkedin.com/in/jason-lin129" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=33/>
+</a>
+
 [Email](linjay@umich.edu)
 
 
