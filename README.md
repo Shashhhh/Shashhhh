@@ -5,9 +5,9 @@
 - I'm a SWE intern at Siemens
   
 ## Projects Overview:
-### Marketing Maturity Assessment - An interactive form for assessing marketing maturity within Siemens\
-### [PLM Enablement for Tool and Die Shops](https://plmenablement.onrender.com) - ChatGPT Powered Siemens Training Website\
-### [PLM Value Prop Helper](https://plm-value.onrender.com) - ChatGPT powered value prop generator\
+### Marketing Maturity Assessment - An interactive form for assessing marketing maturity within Siemens
+### [PLM Enablement for Tool and Die Shops](https://plmenablement.onrender.com) - ChatGPT Powered Siemens Training Website
+### [PLM Value Prop Helper](https://plm-value.onrender.com) - ChatGPT powered value prop generator
 
 ## Tech I've Used:
 <p>
@@ -19,6 +19,9 @@
 </p>
 
 ## Reach Me
+<a href="www.linkedin.com/in/jason-lin129" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=33/></a><p>
+[Email](linjay@umich.edu)
+
 
 
 
