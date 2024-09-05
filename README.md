@@ -6,9 +6,9 @@
 - 🌟 Seeking to expand my knowledge in AI/ML and contribute to impactful projects.
 
   
-## Projects Overview:
-### Siemen GPT Experience - One stop shop for all of Siemens GPTS
-### Marketing Maturity Assessment - An interactive form for assessing marketing maturity within Siemens
+## Projects Overview (under development):
+### [Siemen GPT Experience](https://github.com/Shashhhh/plmGPT) - One stop shop for all of Siemens GPTS
+### [Marketing Maturity Assessment](https://github.com/Shashhhh/marketing_maturity)- An interactive form for assessing marketing maturity within Siemens
 ### [PLM Enablement for Tool and Die Shops](https://plmenablement.onrender.com) - ChatGPT Powered Siemens Training Website
 
 ## Tech I've Used:
